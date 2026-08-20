@@ -1,0 +1,38 @@
+{
+  "enabled": true,
+
+  "maintenance": {
+    "enabled": false,
+    "title": "BẢO TRÌ ỨNG DỤNG",
+    "message": "Ứng dụng hiện đang bảo trì. Vui lòng quay lại sau.",
+    "showExit": true
+  },
+
+  "update": {
+    "enabled": true,
+    "force": false,
+    "versionCode": 1,
+    "versionName": "1.0",
+    "apkUrl": "",
+    "title": "CẬP NHẬT ỨNG DỤNG",
+    "message": "Đã có phiên bản mới. Vui lòng cập nhật ứng dụng.",
+    "showExit": true,
+    "showUpdateButton": true
+  },
+
+  "notification": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "showClose": true
+  },
+
+  "ui": {
+    "fontEnabled": true,
+    "fontName": "chudep",
+    "cornerRadius": 16,
+    "animationEnabled": true,
+    "animationType": "scale",
+    "darkMode": true
+  }
+}
