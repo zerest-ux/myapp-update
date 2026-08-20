@@ -2,7 +2,7 @@
   "enabled": true,
 
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "title": "BẢO TRÌ ỨNG DỤNG",
     "message": "Ứng dụng hiện đang bảo trì. Vui lòng quay lại sau.",
     "showExit": true
